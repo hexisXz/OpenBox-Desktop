@@ -1,0 +1,11 @@
+tint2 &
+
+polybar --config=/etc/polybar/config.ini hexbar & 
+
+xcompmgr & 
+
+feh --bg-fill ~/.config/wallpapers/cat-girls.jpeg & 
+
+gnome-terminal & 
+
+xrandr --output DP-0 --mode 1920x1080 --rate 239.76 & 
